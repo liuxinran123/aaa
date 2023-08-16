@@ -4,7 +4,7 @@
     <div>
       <img src="https://img2.baidu.com/it/u=1661987153,163163366&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="">
     </div>
-    <div>修改哈哈</div>
+    <div>8.16 修改</div>
   </div>
 </template>
 
